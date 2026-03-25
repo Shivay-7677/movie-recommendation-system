@@ -62,7 +62,7 @@ here is a demo,
 
 # Demo:
 
-<img src="1.png" alt="workflow" width="70%">
+<img src="1 (1).png" alt="workflow" width="70%">
 
 <img src="2.png" alt="workflow" width="70%">
 
